@@ -35,4 +35,4 @@ This is a Spotify app clone built using ReactJS and Tailwind CSS. It uses the Sh
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at email@example.com or through my [website](https://plasmaharsh.netlify.app)
+If you have any questions or suggestions, feel free to contact me at plasmaharsh@outlook.com or through my [website](https://plasmaharsh.netlify.app)
