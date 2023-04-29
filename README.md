@@ -16,6 +16,12 @@ https://github.com/harsh661/Amazon-clone
 
 This is an Amazon shopping clone built using React.js and Tailwind CSS for the frontend, and Firebase for the backend. This app is fully responsive on both large and small devices unlike the actual amazon web app.
 
+### Plasma Blogs
+
+https://github.com/harsh661/Plasma-Blogs
+
+A full stack blogging app for developer, where user can login, create and edit posts, leave comments and much more. It is built using React-js and Tailwind css as frontend and uses Firebase for backend.
+
 ### Crypto Compass
 
 https://github.com/harsh661/CryptoCompass
