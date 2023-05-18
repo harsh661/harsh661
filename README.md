@@ -10,6 +10,12 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, JavaScript
 
 ## Top projects
 
+### Twitter Clone
+
+https://github.com/harsh661/Twitter-clone
+
+This is a full-stack web application built using Next.js, Tailwind CSS and Supabase. It supports user login using gmail, post creation, post deletion, liking and commenting on posts, profile page and much more.
+
 ### Amazon Clone
 
 https://github.com/harsh661/Amazon-clone
@@ -21,12 +27,6 @@ This is an Amazon shopping clone built using React.js and Tailwind CSS for the f
 https://github.com/harsh661/Plasma-Blogs
 
 A full stack blogging app for developer, where user can login, create and edit posts, leave comments and much more. It is built using React-js and Tailwind css as frontend and uses Firebase for backend.
-
-### Crypto Compass
-
-https://github.com/harsh661/CryptoCompass
-
-CryptoCompass is a web application built using ReactJS and TailwindCSS that allows users to search for any cryptocurrency asset and get information about the asset like price, market cap, circulating supply, and more.
 
 ### Spotify Clone
 https://github.com/harsh661/Spotify-Clone
