@@ -4,7 +4,7 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, JavaScript
 
 * 👀 I’m interested in Web Development
 
-* :man_technologist: Currently working on [Next Twitter Clone](https://github.com/harsh661/Twitter-clone)
+* :man_technologist: Currently working on [Airbnb Clone](https://github.com/harsh661/airbnb-clone)
 
 * 🌱 I’m currently learning Next-js
 
