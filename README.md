@@ -6,6 +6,8 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, JavaScript
 
 * 🧑‍💻 Currently learning Solidity/Blockchain
 
+* ⚛️ Recently built [CrowdChain](https://github.com/harsh661/web3-crowdfunding) Decentralised app using thirdweb
+
 ## Top projects
 
 ### Airbnb - Home rental
