@@ -4,7 +4,7 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, JavaScript
 
 * 👀 I’m interested in Web Development
 
-* :man_technologist: Currently learning Solidity/Blockchain
+* 🧑‍💻 Currently learning Solidity/Blockchain
 
 ## Top projects
 
