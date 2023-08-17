@@ -4,17 +4,21 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, JavaScript
 
 * 👀 I’m interested in Web Development
 
-* :man_technologist: Currently working on [Airbnb Clone](https://github.com/harsh661/airbnb-clone)
-
-* 🌱 I’m currently learning Next-js
+* :man_technologist: Currently learning Solidity/Blockchain
 
 ## Top projects
+
+### Airbnb - Home rental
+
+https://github.com/harsh661/airbnb-clone
+
+A fully responsive clone of popular booking website Airbnb, built with next.js, typescript, tailwind-css and prisma.
 
 ### Twitter Clone
 
 https://github.com/harsh661/Twitter-clone
 
-This is a full-stack web application built using Next.js, Tailwind CSS, and Supabase. It supports user login using Gmail, post creation, post deletion, liking and commenting on posts, profile pages, and much more.
+A full-stack web application built using Next.js, Tailwind CSS, and Supabase. It supports user login using Gmail, post creation, post deletion, liking and commenting on posts, profile pages, and much more.
 
 ### Amazon Clone
 
@@ -24,15 +28,15 @@ This is an Amazon shopping clone built using React.js and Tailwind CSS for the f
 
 ### Plasma Blogs
 
-https://github.com/harsh661/Plasma-Blogs
+https://github.com/harsh661/PlasmaBlogs
 
 A full-stack blogging app for developers, where users can log in, create and edit posts, leave comments, and much more. It is built using React-js and Tailwind css as frontend and uses Firebase for the backend.
 
-### CryptoCompass
+### Cinema Hub
 
-https://github.com/harsh661/CryptoCompass
+https://github.com/harsh661/cinema-hub
 
-A web application built with React that allows users to search for any cryptocurrency asset and get information about the asset like price, market cap, circulating supply, price history chart, and more.
+An API based movies database with beautiful and responsive design and multiple dynamic routes like movies, shows, seasons, episodes, actors, and much more.
 
 ## Contact
 
