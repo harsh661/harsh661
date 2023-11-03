@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-Hi there :wave:! I am a web developer with a focus on React, Next.js, JavaScript, Tailwind CSS, Firebase, and more. This is my GitHub profile, where you can find all my projects.
+Hi there :wave:! I am a web developer with a focus on React, Next.js, TypeScript, Tailwind CSS, Firebase, and more. This is my GitHub profile, where you can find all my projects.
 
 * 👀 I’m interested in Web Development
 
