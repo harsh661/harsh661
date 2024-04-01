@@ -4,7 +4,7 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, TypeScript
 
 * 👀 I’m interested in Web Development
 
-* 🧑‍💻 Currently learning Solidity/Blockchain
+* 🧑‍💻 Currently learning DevOps
 
 * ⚛️ Recently built [CrowdChain](https://github.com/harsh661/web3-crowdfunding) Decentralised app using thirdweb
 
