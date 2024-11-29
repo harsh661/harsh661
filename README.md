@@ -4,9 +4,7 @@ Hi there :wave:! I am a web developer with a focus on React, Next.js, TypeScript
 
 * 👀 I’m interested in Web Development
 
-* 🧑‍💻 Currently learning DevOps
-
-* ⚛️ Recently built [CrowdChain](https://github.com/harsh661/web3-crowdfunding) Decentralised app using thirdweb
+* 🐧 And I love linux
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.script) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj-1b6638258) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harsh_script) 
