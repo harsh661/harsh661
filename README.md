@@ -27,17 +27,17 @@ https://github.com/harsh661/airbnb-clone
 
 A fully responsive clone of popular booking website Airbnb, built with next.js, typescript, tailwind-css and prisma.
 
-### Twitter Clone
+### Waallet
 
-https://github.com/harsh661/Twitter-clone
+https://github.com/harsh661/waallet
 
-A full-stack web application built using Next.js, Tailwind CSS, and Supabase. It supports user login using Gmail, post creation, post deletion, liking and commenting on posts, profile pages, and much more.
+Waallet is an intuitive tool for managing your finances effortlessly. Customizable charts, automatic expense categorization, bill reminders, and detailed financial reports.
 
-### Amazon Clone
+### Chatit - Realtime chat
 
-https://github.com/harsh661/Amazon-clone
+https://github.com/harsh661/chatit
 
-This is an Amazon shopping clone built using React.js and Tailwind CSS for the frontend, and Firebase for the backend. This app is fully responsive on both large and small devices, unlike the actual Amazon web app.
+ChatIt is a real-time chat application built with Next.js, allowing users to have seamless conversations using text and multimedia messages.
 
 ### Plasma Blogs
 
